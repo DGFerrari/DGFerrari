@@ -7,7 +7,12 @@
 [![Linktree](https://img.shields.io/badge/LinkTree-%20?style=for-the-badge&logo=LinkTree&logoColor=white&color=%23008000)](https://linktr.ee/DGFerrari)
 [![Mail](https://img.shields.io/badge/Gmail-%20?style=for-the-badge&logo=gmail&logoColor=white&color=%23008000)](https://mailto:dguedesferrari@gmail.com)
 
+* 💻 Programador Junior
+* 🎥 Creador de Contenido
+* 🎨 Diseñador Grafico
+* ⚙️ Técnico en Microinformatica y Redes Locales
 
+<!--
 ### Ajustar ancho imagen
 ```
 <p align="center">
@@ -15,12 +20,9 @@
 </p>
 ```
 
-
-
-
-
 > [!NOTE]
 > Este es un mensaje destacado de nota.
 
 > [!WARNING]
 > Este es un mensaje de advertencia.
+-->
