@@ -12,12 +12,14 @@
 * 🎨 Diseñador Grafico
 * ⚙️ Técnico en Microinformatica y Redes Locales
 
+<!-- Lenguajes de Programacion / Marcas / Frameworks -->
 ## ⚙️ Lenguajes
 ### Programacón
 ![Java](https://img.shields.io/badge/Java-%20?style=for-the-badge&color=orange)   
 ![Oracle](https://img.shields.io/badge/Oracle-%20?style=for-the-badge&color=darkred)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%20?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)   
 ![PHP](https://img.shields.io/badge/PHP-%20?style=for-the-badge&logo=PHP&logoColor=white&color=slateblue)   
+![C#](https://img.shields.io/badge/C%23-%20?style=for-the-badge&logo=sharp&logoColor=white&color=darkblue)  
 
 ### Marcas
 ![HTML](https://img.shields.io/badge/HTML-%20?style=for-the-badge&logo=html5&logoColor=white&color=orange)   
@@ -26,11 +28,13 @@
 ### Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%20?style=for-the-badge&logo=Bootstrap&logoColor=white&color=blue)   
 ![Angular](https://img.shields.io/badge/Angular-%20?style=for-the-badge&logo=angular&logoColor=white&color=purple)   
+![.NET](https://img.shields.io/badge/.net-%20?style=for-the-badge&logo=.net&logoColor=white&color=darkblue)   
 
 &emsp; 
 &emsp; 
 &emsp; 
 
+<!-- BadLabs -->
 ## ⚙️ Contribuidores
 <p align="center">
   <img src="https://github.com/DGFerrari/DGFerrari/blob/main/img/W_logo_BadLabs.png" alt="BadLabs" width="500">
