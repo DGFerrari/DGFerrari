@@ -11,12 +11,12 @@
 ```
 ¡Hola! Soy Daniel Guedes Ferrari, desarrollador web y multiplataforma.
 
-Mi pasión por la tecnología empezó desde muy pequeño, cuando pasaba horas programando con bloques en Scratch, creando juegos
-y dando vida a cualquier locura que se me ocurriera. Con los años, esa curiosidad se convirtió en mi profesión: tras completar
-la ESO y un Grado Medio, me enfoqué de lleno en la formación profesional en desarrollo de software.
+Mi pasión por la tecnología empezó desde muy pequeño, cuando pasaba horas programando con bloques en Scratch, creando
+juegos y dando vida a cualquier locura que se me ocurriera. Con los años, esa curiosidad se convirtió en mi profesión:
+tras completar la ESO y un Grado Medio, me enfoqué de lleno en la formación profesional en desarrollo de software.
 
-En este espacio encontrarás tanto mis proyectos personales como los trabajos que he realizado durante mi formación. Si quieres
-echarles un vistazo e inspirarte (¡o usar mi código!), eres totalmente libre de hacerlo.
+En este espacio encontrarás tanto mis proyectos personales como los trabajos que he realizado durante mi formación.
+Si quieres echarles un vistazo e inspirarte (¡o usar mi código!), eres totalmente libre de hacerlo.
 ```
 
 <!-- Destacar -->
