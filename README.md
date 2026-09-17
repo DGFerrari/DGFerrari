@@ -6,13 +6,18 @@
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-%20?style=for-the-badge&logo=Letterboxd&logoColor=white&color=%23008000)](https://letterboxd.com/ElFerraris/)   
 [![Linktree](https://img.shields.io/badge/LinkTree-%20?style=for-the-badge&logo=LinkTree&logoColor=white&color=%23008000)](https://linktr.ee/DGFerrari)   
 [![Mail](https://img.shields.io/badge/Gmail-%20?style=for-the-badge&logo=gmail&logoColor=white&color=%23008000)](mailto:dguedesferrari@gmail.com)
-
+  
 <!-- Descripcion -->
+```
 ¡Hola! Soy Daniel Guedes Ferrari, desarrollador web y multiplataforma.
 
-Mi pasión por la tecnología empezó desde muy pequeño, cuando pasaba horas programando con bloques en Scratch, creando juegos y dando vida a cualquier locura que se me ocurriera. Con los años, esa curiosidad se convirtió en mi profesión: tras completar la ESO y un Grado Medio, me enfoqué de lleno en la formación profesional en desarrollo de software.
+Mi pasión por la tecnología empezó desde muy pequeño, cuando pasaba horas programando con bloques en Scratch, creando juegos
+y dando vida a cualquier locura que se me ocurriera. Con los años, esa curiosidad se convirtió en mi profesión: tras completar
+la ESO y un Grado Medio, me enfoqué de lleno en la formación profesional en desarrollo de software.
 
-En este espacio encontrarás tanto mis proyectos personales como los trabajos que he realizado durante mi formación. Si quieres echarles un vistazo e inspirarte (¡o usar mi código!), eres totalmente libre de hacerlo.
+En este espacio encontrarás tanto mis proyectos personales como los trabajos que he realizado durante mi formación. Si quieres
+echarles un vistazo e inspirarte (¡o usar mi código!), eres totalmente libre de hacerlo.
+```
 
 <!-- Destacar -->
 ## ⚙️ Destaco que soy...
@@ -39,6 +44,13 @@ En este espacio encontrarás tanto mis proyectos personales como los trabajos qu
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%20?style=for-the-badge&logo=Bootstrap&logoColor=white&color=purple)   
 ![Angular](https://img.shields.io/badge/Angular-%20?style=for-the-badge&logo=angular&logoColor=white&color=red)   
 ![.NET](https://img.shields.io/badge/.net-%20?style=for-the-badge&logo=.net&logoColor=white&color=darkblue)   
+
+### Herramientas
+![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-%20?style=for-the-badge&color=blue) 
+![Eclipse](https://img.shields.io/badge/Eclipse-%20?style=for-the-badge&logo=eclipse&logoColor=white&color=purple) 
+![Notion](https://img.shields.io/badge/Notion-%20?style=for-the-badge&logo=Notion&logoColor=white&color=black) 
+![Trello](https://img.shields.io/badge/Trello-%20?style=for-the-badge&logo=Trello&logoColor=white&color=blue) 
+![GodotEngine](https://img.shields.io/badge/godot%20engine-%20?style=for-the-badge&logo=godotengine&logoColor=white&color=blue) 
 
 &emsp; 
 &emsp; 
