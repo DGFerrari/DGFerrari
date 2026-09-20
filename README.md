@@ -34,7 +34,7 @@ Si quieres echarles un vistazo e inspirarte (¡o usar mi código!), eres totalme
 ![Oracle](https://img.shields.io/badge/Oracle-%20?style=for-the-badge&color=darkred)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%20?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)   
 ![PHP](https://img.shields.io/badge/PHP-%20?style=for-the-badge&logo=PHP&logoColor=white&color=slateblue)   
-![C#](https://img.shields.io/badge/C%23-%20?style=for-the-badge&logo=sharp&logoColor=white&color=darkblue)  
+<!-- ![C#](https://img.shields.io/badge/C%23-%20?style=for-the-badge&logo=sharp&logoColor=white&color=darkblue) -->  
 
 ### Marcas
 ![HTML](https://img.shields.io/badge/HTML-%20?style=for-the-badge&logo=html5&logoColor=white&color=orange)   
@@ -43,7 +43,7 @@ Si quieres echarles un vistazo e inspirarte (¡o usar mi código!), eres totalme
 ### Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%20?style=for-the-badge&logo=Bootstrap&logoColor=white&color=purple)   
 ![Angular](https://img.shields.io/badge/Angular-%20?style=for-the-badge&logo=angular&logoColor=white&color=red)   
-![.NET](https://img.shields.io/badge/.net-%20?style=for-the-badge&logo=.net&logoColor=white&color=darkblue)   
+<!-- ![.NET](https://img.shields.io/badge/.net-%20?style=for-the-badge&logo=.net&logoColor=white&color=darkblue) -->   
 
 ### Herramientas
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-%20?style=for-the-badge&color=blue) 
