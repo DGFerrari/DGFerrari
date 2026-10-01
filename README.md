@@ -26,7 +26,11 @@ Si quieres echarles un vistazo e inspirarte (¡o usar mi código!), eres totalme
 * 🎨 Diseñador Grafico
 * ⚙️ Técnico en Microinformatica y Redes Locales
 
-    
+<!-- Trabajos que Trabajo Actualmente -->
+## ⚙️ Trabajos que Trabajo Actualmente
+* WEB CLIENTE => [RETO_ANGULAR_DGF](https://github.com/DGFerrari/RETO_ANGULAR_DGF)
+* WEB SERVER => [WEB-SERVER-PHP](https://github.com/DGFerrari/WEB-SERVER-PHP)
+    
 <!-- Lenguajes de Programacion / Marcas / Frameworks -->
 ## ⚙️ Lenguajes
 ### Programacón
